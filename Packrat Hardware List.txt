@@ -1,0 +1,20 @@
+FR4 Skeleton Hardware
+-6x 12mm M3 standoffs https://www.aliexpress.com/item/1005001478740318.html?spm=2114.12010615.8148356.13.7db96cadHzlcOX
+-12x 6mm M3 screws https://www.aliexpress.com/item/10000148429238.html?spm=2114.12010615.8148356.9.7db96cadHzlcOX
+
+S.A.S. Hardware
+-6x 18mm M3 bolts 
+   https://www.mcmaster.com/92467A481/ 
+OR https://www.aliexpress.com/item/10000148429238.html?spm=2114.12010615.8148356.9.7db96cadHzlcOX
+
+-6x M3 caps 
+   https://www.amazon.com/binifiMux-100pcs-Acorn-Stainless-Steel/dp/B07X8X4DTY/ref=sr_1_3?dchild=1&keywords=m3+acorn+cap&qid=1616709354&sr=8-3
+OR https://www.aliexpress.com/item/1005002178171303.html?spm=2114.12010615.8148356.15.458f6db1vlVxqd
+
+
+General Hardware List
+-switches
+-keycaps
+-diodes
+-PM
+-SMD reset switch
